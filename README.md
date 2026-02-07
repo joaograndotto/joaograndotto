@@ -56,9 +56,9 @@ Atualmente, trabalho no **Tribunal de Justiça do Estado de Goiás** no desenvol
     * *Reconhecimento de nomes de instituições utilizando Inteligência Artificial* – **15º SICT/IFG** (Iniciação Científica) (2022).
 * **Certificação:** 15º Seminário de Iniciação Científica e Tecnológica.
 
+<!--
 ---
 
 ### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaograndotto&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaograndotto&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=joaograndotto&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joaograndotto&layout=compact&theme=radical)--!>
