@@ -22,7 +22,7 @@ Atualmente, trabalho no **Tribunal de Justiça do Estado de Goiás** no desenvol
 | **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
 | **AI & NLP** | ![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-blue) ![AI Agents](https://img.shields.io/badge/-AI_Agents-blueviolet) |
 | **Web & Search** | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![Scraping](https://img.shields.io/badge/-Web_Scraping-orange) |
-| **Infra & LLM Ops** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VLLM](https://img.shields.io/badge/-VLLM-darkgreen) ![TensorRT-LLM](https://img.shields.io/badge/-TensorRT_LLM-76B900?style=flat&logo=nvidia&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Infra & LLM Ops** | ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![VLLM](https://img.shields.io/badge/-VLLM-darkgreen) ![TensorRT-LLM](https://img.shields.io/badge/-TensorRT_LLM-76B900?style=flat&logo=nvidia&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
 ---
 
@@ -32,11 +32,18 @@ Atualmente, trabalho no **Tribunal de Justiça do Estado de Goiás** no desenvol
 *Cientista de Dados | Fev/2024 – Atual*
 * Desenvolvimento de soluções com IA para serviços jurídicos.
 * Aplicação de modelos de Machine Learning, LLM e NLP.
+* **Stack:** `Python`, `RAG`, `NLP`, `VLLM`, `TensorRT-LLM`, `Transformers`, `GCP`, `Elasticsearch`, `FastAPI`, `Flask`, `Docker`
 
 **IBICT - Inst. Brasileiro de Informação em Ciência e Tecnologia**
 *Cientista de Dados | Jun/2022 – Mai/2024*
-* Inteligência Artificial e Ciência de Dados aplicadas para o tratamento, uso e geração de serviços a partir dos acervos bibliográficos científicos e técnicos.
-* Criação de serviços baseados em dados com Python, Pandas, FastAPI, ML e NLP.
+* Desenvolvimento de infraestrutura de informação científica.
+* Criação de serviços baseados em dados para modernização de acervos bibliográficos.
+* **Stack:** `Python`, `Pandas`, `FastAPI`, `Scikit-Learn`, `NLP`.
+
+**Instituto Federal de Goiás (IFG)**
+*Bolsista PIBITI | Set/2021 – Ago/2022*
+* Projeto de Reconhecimento de nomes de instituições utilizando Inteligência Artificial.
+* **Stack:** `Python`, `NLP`, `Scikit-Learn`.
 
 ---
 
@@ -46,6 +53,7 @@ Atualmente, trabalho no **Tribunal de Justiça do Estado de Goiás** no desenvol
 * **Publicações:**
     * *Análise de dados bibliográficos: estudo de caso no Catálogo Coletivo Nacional de Publicações Seriadas (CCN)* – **WIDaT** (2024).
     * *Engenharia de Dados e Biblioteconomia: A Modernização do Catálogo Coletivo Nacional de Publicações Seriadas* – **CBSOFT** (2023).
+    * *Reconhecimento de nomes de instituições utilizando Inteligência Artificial* – **15º SICT/IFG** (Iniciação Científica) (2022).
 * **Certificação:** 15º Seminário de Iniciação Científica e Tecnológica.
 
 ---
